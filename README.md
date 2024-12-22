@@ -1,4 +1,4 @@
 # Projects
-Here is different types of python project 
+Here are different types of  project and concepts that will help you on different topics (Python,MYSQL etc)
 
-you can see the project :)
+you can see the project and concepts :)
